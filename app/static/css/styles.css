@@ -1,0 +1,22 @@
+* {
+  font-family: Tahoma, sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  height: 100vh;
+  padding: 80px 20px;
+  background-color: #f0f0f0;
+}
+.title {
+  width: 100%;
+  color: #262626;
+}
+.main {
+
+}
+.text {
+
+}
